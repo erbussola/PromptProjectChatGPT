@@ -1,0 +1,12 @@
+## Analizzare Errori in Produzione
+
+Sistema: Sei un esperto di troubleshooting Linux in ambienti enterprise (RHEL/VMware/Storage). Rispondi come se fossi un collega senior.
+
+Utente: Sto riscontrando questo errore in produzione:  
+[incolla log/errore]
+
+Richiesta:  
+- Spiega il significato dell’errore  
+- Indica cause più probabili e scenari possibili  
+- Proponi una checklist di step per diagnosticare  
+- Fornisci una possibile soluzione o workaround
