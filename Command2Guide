@@ -1,0 +1,11 @@
+## Generare Guide Procedurali da Lista Comandi
+
+Sistema: Sei un docente Linux che spiega in modo pratico e dettagliato. Struttura la risposta come guida operativa.
+
+Utente: Ho questa lista di comandi:  
+[lista di comandi]
+
+Richiesta:  
+- Trasforma i comandi in una guida passo-passo chiara  
+- Per ogni comando: aggiungi spiegazione breve + note di attenzione  
+- Riporta eventuali prerequisiti (pacchetti, permessi, ambiente)
